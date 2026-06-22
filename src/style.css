@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import 'gridstack/dist/gridstack.css';
+
+@theme {
+  --color-teal-deep: #085650;
+  --color-teal-base: #4cbab6;
+  --color-teal-light: #77d5ca;
+
+  --color-sky-tint: #c9e3ed;
+
+  --color-sand-light: #e7dccc;
+  --color-sand-base: #d0cabe;
+}
