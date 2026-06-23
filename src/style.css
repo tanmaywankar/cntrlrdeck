@@ -1,5 +1,6 @@
 @import "tailwindcss";
 @import 'gridstack/dist/gridstack.css';
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght,CRSV@100..900,0&family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap');
 
 @theme {
   --color-teal-deep: #085650;
@@ -10,4 +11,13 @@
 
   --color-sand-light: #e7dccc;
   --color-sand-base: #d0cabe;
+}
+
+html,body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  background: radial-gradient(circle at 0% 0%, #d0cabe 0%, #4cbab6 80%);
+
 }
