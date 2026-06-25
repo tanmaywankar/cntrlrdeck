@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import 'gridstack/dist/gridstack.css';
 @import url('https://fonts.googleapis.com/css2?family=Geologica:wght,CRSV@100..900,0&family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap');
 
 @theme {
